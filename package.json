@@ -1,0 +1,23 @@
+{
+  "name": "result_compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromiseFru/result_compiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PromiseFru/result_compiler/issues"
+  },
+  "homepage": "https://github.com/PromiseFru/result_compiler#readme",
+  "dependencies": {
+    "pdf2json": "^1.2.0"
+  }
+}
