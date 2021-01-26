@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/PromiseFru/result_compiler#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "pdf2json": "^1.2.0"
   }
 }
